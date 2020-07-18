@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi! I'm DouLo 🧑‍💻 👀
+I'm a junior developer, who is learning about the important technologies to make a better future, just like the web **HTML**, **CSS** & **JavaScript**. Also, I've knowledge about **SQL**, **Node.js**, **VueJS**, etc.
 
-## I'm Dou-Lo
+### Get in touch with me and my team🌎
+- My [Discord Server](https://discord.gg/TrtUFM) 👾
+- [@_doulo](https://twitter.com/_doulo) on Twitter 🐦
 
-# This is my profile, i'll change it later
+### Also you can see my other projects 🤖
+- [Portfolio](https://doulo.now.sh/) 🎱
+
+##### Thanks for see :)
