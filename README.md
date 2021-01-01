@@ -3,7 +3,7 @@ I'm a junior developer, who is learning about the important technologies to make
 
 ### Get in touch with me and my team🌎
 - My [Discord Server](https://discord.gg/TrtUFM) 👾
-- [@_doulo](https://twitter.com/_doulo) on Twitter 🐦
+- [@doulovera](https://twitter.com/doulovera) on Twitter 🐦
 
 ### Also you can see my other projects 🤖
 - [Portfolio](https://doulo.now.sh/) 🎱
