@@ -1,5 +1,5 @@
 ## Hi you! I'm Douglas 🧑‍💻
-I am a young web developer, more focused on front-end, who is learning every day (and enjoying it 🧠). I code in **HTML**, **CSS** and **JavaScript**, but I am currently learning ⚛️ **React.js** and 🐍 **Python**.
+I am a young web developer, more focused on front-end, who is learning every day (and enjoying it 🧠). I code in **HTML**, **CSS** and **JavaScript**, but I am currently learning ⚛️**React.js** and 🐍**Python**.
 
 I created a bot in Discord with [discord.js](https://discord.js.org) called 🤖 OneOne. It's one of my proudest projects and it has it's own landing page: [https://oneonebot.ml](https://oneonebot.ml)
 
