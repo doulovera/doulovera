@@ -1,10 +1,13 @@
-## Hi! I'm DouLo 🧑‍💻 👀
-I'm a junior Frontend Developer, who is learning about the important technologies to make a better future, just like the web **HTML**, **CSS**, **JavaScript** & **React**. 
+## Hi you! I'm Douglas 🧑‍💻
+I am a young web developer, more focused on front-end, who is learning every day (and enjoying it 🧠). I code in **HTML**, **CSS** and **JavaScript**, but I am currently learning ⚛️ **React.js** and 🐍 **Python**.
 
-### Get in touch with me and my team🌎
-- [@doulovera](https://twitter.com/doulovera) on Twitter 🐦
+I created a bot in Discord with [discord.js](https://discord.js.org) called 🤖 OneOne. It's one of my proudest projects and it has it's own landing page: [https://oneonebot.ml](https://oneonebot.ml)
 
-### Also you can see my other projects 🤖
-- [Portfolio](https://doulovera.me/) 🎱
+[My portfolio](https://doulovera.github.io/)
 
-##### Thanks for see :)
+#### Github Stats
+![My stats](https://github-readme-stats.vercel.app/api?username=doulovera&show_icons=true&theme=dark)
+
+## Contact me! 📝
+[Linkedin](https://www.linkedin.com/in/douglaslovera/)
+[Twitter](https://doulovera)
