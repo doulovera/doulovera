@@ -9,5 +9,6 @@ I created a bot in Discord with [discord.js](https://discord.js.org) called 🤖
 ![My stats](https://github-readme-stats.vercel.app/api?username=doulovera&show_icons=true&theme=dark)
 
 ## Contact me! 📝
-[Linkedin](https://www.linkedin.com/in/douglaslovera/)
-[Twitter](https://doulovera)
+[Linkedin](https://www.linkedin.com/in/douglaslovera/) | 
+[Twitter](https://doulovera) | 
+[Blog](https://dev.to/doulovera)
