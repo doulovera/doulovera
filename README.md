@@ -13,5 +13,5 @@ I am a **Front-end** developer. I enjoy watching Comedies, listening to Podcasts
 
 ## Contact me! 📝
 [Linkedin](https://www.linkedin.com/in/douglaslovera/) | 
-[Twitter](https://doulovera) | 
+[Twitter](https://twitter.com/doulovera) | 
 [Blog](https://dev.to/doulovera)
